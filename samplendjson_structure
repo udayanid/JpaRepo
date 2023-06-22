@@ -1,0 +1,138 @@
+{
+	"codes": [{
+		"type": "fiscal_code",
+		"value": "80442710580"
+	},
+	{
+		"type": "lei_code",
+		"value": "549300S66F1WUZFZ8H88"
+	}],
+	"death_dates": [{
+		"month": 5,
+		"year": 1958,
+		"inferred": false,
+		"day": 28
+	}],
+	"gender": "M",
+	"organization_details": {
+		"organization_subtype": "regional+direct",
+		"organization_type": "State Owned Enterprises",
+		"sector": "",
+		"population": null
+	},
+	"birth_dates": [{
+		"month": 4,
+		"year": 1969,
+		"inferred": false,
+		"day": 28
+	},
+	{
+		"month": null,
+		"year": 1979,
+		"inferred": true,
+		"day": null
+	}],
+	"nationalities": ["Russian"],
+	"old_ids": [{
+		"filename": "flusso_anagrafica_completa",
+		"old_id": 205446
+	}{
+		"filename": "flusso_anagrafica_completa",
+		"old_id": 218405
+	}{
+		"filename": "flusso_anagrafica_completa",
+		"old_id": 237335
+	}{
+		"filename": "flusso_anagrafica_completa",
+		"old_id": 237876
+	}{
+		"filename": "flusso_anagrafica_completa",
+		"old_id": 283589
+	}{
+		"filename": "flusso_anagrafica_completa",
+		"old_id": 358585
+	}{
+		"filename": "flusso_anagrafica_completa",
+		"old_id": 594483
+	}{
+		"filename": "flusso_anagrafica_completa",
+		"old_id": 789849
+	}{
+		"filename": "flusso_anagrafica_completa",
+		"old_id": 815456
+	},
+	{
+		"filename": "flusso_anagrafica_completa",
+		"old_id": 842486
+	},
+	{
+		"filename": "pep-ww_person",
+		"old_id": 1006795
+	},
+	{
+		"filename": "flusso_anagrafica_completa",
+		"old_id": 1069389
+	}],
+	"photos": ["DIDA7280266.jpg"],
+	"tags": ["adverse_media",
+	"adverse_media_related",
+	"pep_related"],
+	"names": [{
+		"full_name": "",
+		"native": false,
+		"last_name": "Berlusconi",
+		"title": "",
+		"first_name": "Pier Silvio",
+		"primary": true
+	},
+	{
+		"full_name": "Piersilvio Berlusconi",
+		"native": false,
+		"last_name": "",
+		"title": "Mr",
+		"first_name": "",
+		"primary": false
+	}],
+	"entity_type": "I",
+	"docs": ["DDDB7280266.pdf"],
+	"locations": [{
+		"country": "ITA",
+		"address": "Milano, Lombardia",
+		"city": "Milano",
+		"street": null,
+		"region": "Lombardia",
+		"type": "birth_place"
+	},
+	{
+		"country": "ITA",
+		"address": "Milano, Lombardia",
+		"city": "Milano",
+		"street": null,
+		"region": "Lombardia",
+		"type": "address"
+	},
+	{
+		"country": "ITA",
+		"address": "Roma, Lazio",
+		"city": "Roma",
+		"street": null,
+		"region": "Lazio",
+		"type": "address"
+	},
+	{
+		"country": "ITA",
+		"address": "Bolzano, Friuli Venezia Giulia",
+		"city": "Bolzano",
+		"street": null,
+		"region": "Friuli Venezia Giulia",
+		"type": "address"
+	}],
+	"id": "EA8244401",
+	"hash": "0ed607f39c6554dbe5ed456f0117e4ddb8855fcd537b036da0327e164515ed5f",
+	"last_update": {
+		"adverse_media": "2022-06-29",
+		"entity": "2022-06-29",
+		"adverse_media_related": null,
+		"pep_related": null
+	}
+}
